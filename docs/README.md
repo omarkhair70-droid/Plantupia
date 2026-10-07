@@ -15,12 +15,25 @@ Date: 2026-10-07
 8. [S1 — Meaning Extraction](./synthesis/01-meaning-extraction.md)
 9. [S2 — Digital / Product Translation](./synthesis/02-product-translation.md)
 10. [S3 — Core Translation Stress Test](./synthesis/03-core-stress-test.md)
-11. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
 
-## Current next step
+## Step 05 — First Product / Creative Thesis Exploration
 
-**Step 05 — First Product / Creative Thesis Exploration**
+11. [World 01 — Living Operations](./exploration/01-world-living-operations.md)
+12. [World 02 — Plant Literacy](./exploration/02-world-plant-literacy.md)
+13. [World 03 — Living Object](./exploration/03-world-living-object.md)
+14. [World 04 — Living Materials / Specifier Infrastructure](./exploration/04-world-living-materials.md)
 
-Create 3–4 radically different worlds in which the current principles may live.
+15. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
+
+## Current phase
+
+**Step 05 is now active.**
+
+The four worlds are intentionally divergent and provisional.  
+The next gate is not selection by taste.
+
+Next:
+
+reference recheck → cross-world critique → contradictions → merge / kill / refine → smallest proof experiments → first product / creative thesis.
 
 No final product category is locked.
