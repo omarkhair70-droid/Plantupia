@@ -23,7 +23,9 @@ Date: 2026-10-07
 13. [World 03 — Living Object](./exploration/03-world-living-object.md)
 14. [World 04 — Living Materials / Specifier Infrastructure](./exploration/04-world-living-materials.md)
 
-15. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
+15. [Cross-World Critique](./exploration/05-cross-world-critique.md)
+
+16. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
 
 ## Current phase
 
