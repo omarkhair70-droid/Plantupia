@@ -25,7 +25,9 @@ Date: 2026-10-07
 
 15. [Cross-World Critique](./exploration/05-cross-world-critique.md)
 
-16. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
+16. [Project Lifecycle Map v0](./exploration/06-project-lifecycle-map-v0.md)
+
+17. [Master Continuation Handoff](./continuation/PLANTUPIA_MASTER_CONTINUATION_2026-10-07.md)
 
 ## Current phase
 
