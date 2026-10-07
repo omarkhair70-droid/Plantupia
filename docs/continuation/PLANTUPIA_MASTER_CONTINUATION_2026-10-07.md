@@ -106,3 +106,31 @@ reference recheck → critique → merge / kill / refine → first product / cre
 The repository is public.
 
 Private employment material and non-public company details must stay out unless explicit approval is given.
+
+
+## Step 05 started — 2026-10-07
+
+Four deliberately different exploration worlds now exist:
+
+1. **Living Operations** — the commercial green space as a persistent operational living record.
+2. **Plant Literacy** — a consumer relationship that teaches people to notice rather than outsourcing attention.
+3. **Living Object** — a physical-first object where plant, furniture, care and calm technology become one composition.
+4. **Living Materials / Specifier Infrastructure** — greenery as a specification-ready architectural material with continuity into installation and care.
+
+Important:
+
+These are exploration vehicles, not roadmap commitments.
+
+Do not rank them yet from instinct alone.
+
+Next work should attack them through:
+- stronger direct references
+- lateral / strange references
+- economic reality
+- Plantupia right-to-win
+- human-value contradiction
+- technical burden
+- smallest proof experiment
+- explicit kill conditions
+
+The goal is to discover whether one world dominates, multiple worlds share one deeper core, or a new fifth direction emerges from the collision.
