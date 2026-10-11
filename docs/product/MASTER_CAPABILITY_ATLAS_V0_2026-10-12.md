@@ -2,6 +2,8 @@
 
 **Date:** 2026-10-12  
 **Status:** PROPOSED FEATURE UNIVERSE — NOT SIGNED OFF; not a promise to ship everything.  
+**Reality correction (2026-10-12):** Plantupia has **no sensors in its plants** (user confirmed). All sensor, telemetry, pairing and smart-device controls are excluded from the current product, V1 and active roadmap. Past Living Object/IoT research is historical exploration only, not a company capability.
+
 **Basis:** the active Plantupia research branch (Working Law, Source Atlases, Meaning Extraction, Product Translation, Cross-World Critique, Lifecycle Map); the post-research Nova conversion branch PR #240; public competitor documentation reviewed on 2026-10-12.
 
 > Purpose: make the *whole product* legible before coding more features. Preserve the difference between known company reality, verified competitor behavior, implemented code, product hypotheses and future exploration.
@@ -65,8 +67,7 @@ Project constraints: research is revisable; source/truth classes are kept explic
 | B17–B21 | Commercial | services/plans; warranty rules; billing/payment; SLA; renewal/subscription | GATED, no invented entitlements | LATER |
 | W01–W06 | Public website | authored Home; projects/case studies with real photos; service/solution pages; company story; enquiry/RFQ; contact/legal | SEPARATE web output, not built by Nova PR | WEB |
 | W07–W10 | Website R&D | space-photo visualizer; product/plant-selection guidance; specifier kit; BIM/CAD support | R&D; asset and company gate | LATER |
-| H01–H06 | Hardware | optional sensor onboarding; measured soil moisture; measured light/temp; calibration; offline state; device history | R&D; no fabricated telemetry | LATER |
-| H07–H10 | Physical | living furniture/object identity; fleet monitoring; firmware; failure-safe manual care | R&D | LATER |
+| EXCLUDED | IoT / Smart hardware | Plantupia has no plant sensors; no pairing, telemetry, automatic soil readings or device management in this app or active roadmap | User-confirmed exclusion | OUT OF SCOPE |
 | X01–X06 | Platform | authenticated API; scoped media; role-based access; rate limiting; observability; backup/restore | Nova infrastructure exists, verify Plantupia-specific correctness | C0–B1 |
 | X07–X12 | Platform | offline/retry/queued photo; image optimization; RTL/accessibility; delete cascade; data retention; release/legal | PARTIAL / audit required | C1 |
 | X13–X16 | Business analytics | aggregate engagement, issue outcomes, real service activity, feedback trends | GATED; never invent health score | LATER |
