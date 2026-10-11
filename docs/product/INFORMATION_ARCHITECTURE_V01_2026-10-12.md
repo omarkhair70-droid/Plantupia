@@ -1,6 +1,8 @@
 # PLANTUPIA — Information Architecture & Screen Contracts v0.1
 
 **Date:** 2026-10-12 · **Status:** DESIGN HYPOTHESIS / NOT APPROVED / NO CLIENT CODE MODIFIED  
+**Prototype proof 01 (2026-10-12):** [Interactive Arabic UX study — living context / J1+J2](../../prototypes/living-context-study-01/README.md) with [standalone HTML](../../prototypes/living-context-study-01/index.html) and [Playwright smoke](../../prototypes/living-context-study-01/qa_playwright.py). This is a tested design exploration of N1 navigation, **not** an approved final IA, implemented AI or real Android release. The competitor comparison, J3/B1 company journey and N2 navigation challenge remain open.
+
 **Parent contract:** [Master Product Specification v0.1](./MASTER_PRODUCT_SPEC_V01_2026-10-12.md)  
 **Source inventory (broader, uncommitted):** [Capability Atlas](./MASTER_CAPABILITY_ATLAS_V0_2026-10-12.md) and [Screen Atlas](./SCREEN_FLOW_ATLAS_V0_2026-10-12.md).
 
