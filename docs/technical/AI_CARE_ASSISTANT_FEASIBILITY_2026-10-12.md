@@ -1,6 +1,8 @@
 # Plantupia — AI Care Assistant Feasibility (2026-10-12)
 
 **Status:** RESEARCH / PROPOSED technical contract; **NOT IMPLEMENTED IN NOVA PR #240**; no API account or operating budget has been approved.  
+**Confirmed operational boundary (2026-10-12):** Plantupia has **no sensors in its plants**. The assistant may interpret user-supplied observations but must never imply live readings or sensor-integrated functionality. Sensor/IoT integration is outside the active product scope.
+
 **Product anchor:** context before advice; observed history before AI; uncertainty and evidence before certainty; automate burden, not the human relationship.  
 **Linked docs:** `../product/MASTER_CAPABILITY_ATLAS_V0_2026-10-12.md` and `../product/SCREEN_FLOW_ATLAS_V0_2026-10-12.md`.
 
