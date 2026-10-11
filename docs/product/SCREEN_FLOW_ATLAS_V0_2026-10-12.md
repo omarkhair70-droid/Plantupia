@@ -2,6 +2,8 @@
 
 **Date:** 2026-10-12  
 **Status:** PROPOSED IA + SCREEN INVENTORY, **not** a locked UI or a promise to ship.  
+**Reality correction (2026-10-12):** Plantupia has **no sensors in its plants**. All sensor/device flows are removed from current product scope and roadmap; prior physical-object research is separate, not an implemented capability.
+
 **Read alongside:** `MASTER_CAPABILITY_ATLAS_V0_2026-10-12.md`, `docs/WORKING_LAW.md`, Nova PR #240 / `docs/PLANTUPIA_PRODUCT_CONVERSION.md`.
 
 ## 0. Experience principles
@@ -109,6 +111,7 @@ Phase: **C0** demonstrable complete core / **C1** fuller consumer product / **B1
 | M06 | Report/block | functioning moderation and abuse controls | C1 |
 | M07 | Circle search/discovery | topics and relevance beyond empty endless feed | C1 |
 | M08 | People/inbox | inherit only where useful/approved; protect private space links | OPTION |
+| EXCLUDED | Hardware/telemetry | No sensor-equipped Plantupia plants, pairing screens, measurements, calibrations or control flows | OUT OF SCOPE |
 | U01 | My profile | own public identity separate from private spaces | C0 |
 | U02 | Privacy overview | who can see every relevant surface | C0 |
 | U03 | Preferences | language, notifications, sensory/motion settings | C1 |
@@ -125,9 +128,6 @@ Phase: **C0** demonstrable complete core / **C1** fuller consumer product / **B1
 | B08 | Visit report preview | human-reviewed accurate summary and client visibility | B1 |
 | B09 | Staff offline state | draft/sync/conflict handling where field conditions require | B1 |
 | B10 | Manager overview | exception-driven sites, not invented plant health dashboards | B1 |
-| H01 | Connect hardware | only actual compatible sensor device; no mandatory QR | OPTION |
-| H02 | Sensor plant data | measured + timestamped + offline state, not inferred | OPTION |
-| H03 | Device reliability | battery, pairing, calibration, failed sync | OPTION |
 
 **A screen is not complete merely because it renders.** Normal/empty/loading/error/offline/no-permission states, RTL, keyboard/large-text, privacy, restoration, and tested real device behavior belong to its completion contract. Adjacent actions can be sheets/dialogs instead of distinct navigation destinations: screen count is an **IA inventory**, not a mandate to create 70 routes.
 
