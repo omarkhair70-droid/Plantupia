@@ -55,3 +55,5 @@ No final product category is locked.
 20. [Pass 05 — Award-winner interaction teardown and comparable Living Atlas / Field Notes / Quiet Care briefs](./design/07-award-winners-behavioral-teardown-pass-05-2026-10-14.md)
 
 21. [Pass 06 — Consent-based field validation and scenario stress-test protocol](./research/08-field-realities-validation-protocol-pass-06-2026-10-14.md)
+
+22. [Pass 07 — Four-world Integrated Candidate and native design contract](./design/09-pass07-integrated-product-synthesis-contract-2026-10-14.md)
