@@ -51,3 +51,5 @@ No final product category is locked.
 
 **Next:** teardown winning screen/interaction sequences using original source and actual on-device screenshots, prototype *competing* directions (Living Atlas / Field Notes / Quiet Care), test navigation before permanent change, and feed falsifiable lessons back into the original seven meanings. User final review remains at the integrated APK; no production modification is authorized by this document.
 
+
+20. [Pass 05 — Award-winner interaction teardown and comparable Living Atlas / Field Notes / Quiet Care briefs](./design/07-award-winners-behavioral-teardown-pass-05-2026-10-14.md)
