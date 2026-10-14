@@ -67,3 +67,6 @@ PR: [omarkhair-labs/nova#241](https://github.com/omarkhair-labs/nova/pull/241) r
 - **D07-06** (unresolved): For 100-unit company scenario, photo atlas may be secondary to searchable plant inventory and explicit caretaker assignments (company role approval required).
 
 **Next pass:** actual 390dp and 360dp QA screenshot comparison against prototype, true 0/1/7/100 data fixtures if safe on isolated QA, identify component-level diffs, then implement only validated improvements in Compose. The experimental file is standalone and not evidence of native completion.
+
+## Addendum: local anonymous comparison trace
+The standalone prototype now exports a JSON trace of task completions and on-phone button taps per world. It deliberately omits typed care notes, images, accounts, and personal data. These numbers document scripted prototype actions, not user-validated success. Chromium smoke tests pass after this addition, including desktop and 390px mobile layout.
