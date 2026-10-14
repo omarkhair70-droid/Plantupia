@@ -57,3 +57,15 @@ No final product category is locked.
 21. [Pass 06 — Consent-based field validation and scenario stress-test protocol](./research/08-field-realities-validation-protocol-pass-06-2026-10-14.md)
 
 22. [Pass 07 — Four-world Integrated Candidate and native design contract](./design/09-pass07-integrated-product-synthesis-contract-2026-10-14.md)
+
+## Engineering handoff and bounded Native V1 closure (2026-10-15)
+
+The original Step 05 worlds and Passes 04–07 **remain research evidence**, not automatic shipping commitments or an approved visual winner. The source-to-code reconciliation and finite G0–G6 delivery criteria are documented in the native repository:
+
+- [Canonical integrated Native delivery roadmap](https://github.com/omarkhair-labs/nova/blob/feature/plantupia-native-experience-20261012/docs/PLANTUPIA_FINITE_INTEGRATED_DELIVERY_ROADMAP_2026-10-15.md)
+- [Native screen closure ledger](https://github.com/omarkhair-labs/nova/blob/feature/plantupia-native-experience-20261012/docs/PLANTUPIA_SCREEN_CLOSURE_LEDGER.md)
+- [Pass 07 Native implementation contract](https://github.com/omarkhair-labs/nova/blob/feature/plantupia-native-experience-20261012/docs/PLANTUPIA_PASS07_NATIVE_EXECUTION_CONTRACT.md)
+
+The current user decision is to continue the existing Kotlin/Compose + Django work and defer visual review until **one complete QA APK**. Do not start an unbounded Pass 08 by default or mistake a prototype for a device test. Reopen research only for a named evidence gap with an explicit accept/reject/defer outcome. Product delivery, separate public website and unverified company B1 operating processes have **distinct scope and closure criteria**; none can be silently marked shipped by Android CI.
+
+The historical research index above is intentionally preserved; this newer implementation decision does not retroactively change which worlds were provisional.
