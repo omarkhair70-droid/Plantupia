@@ -108,3 +108,9 @@ The scores stay **unfilled** until actual testing. No winner declared from scree
 Could the most meaningful activity happen *outside* the app (physical care)? Could stronger image-driven stories harm quick care? Could a serious caretaker prefer a plain searchable list? Could “community wisdom” spread wrong advice? These are genuine disconfirmation criteria, not reasons to abandon experiments.
 
 **Next Pass 05B deliverable:** clickable, one-file desktop/mobile comparison studio of the three directions, with 5 shared task buttons, simulated photo/media, and no backend writes, accompanied by a shot-by-shot audit against *current* installed QA captures at final review. Native PR remains unchanged for this experimental design research.
+
+## Companion clickable design studio — Pass 05B
+
+One self-contained **HTML experimental prototype** was produced in the related ChatGPT research work: `Plantupia_Pass05_ThreeWorlds_Interactive.html`. It uses one explicitly simulated dataset, three different entry compositions, local-only care interaction, truthful one-photo state, a public-preview consent gate, and a 5-task comparison panel. **The research document and source criteria live in GitHub; the generated prototype HTML is currently a downloadable conversation artifact, not yet committed here.** No Nova code, real user photos, account data, or backend are changed by it.
+
+Local scripted interaction checks completed: three-world switching, open plant, write observation, history, image absence, consent preview, defer, reset. **Browser pixel QA and real user results are not certified.**
