@@ -41,3 +41,13 @@ Next:
 reference recheck → cross-world critique → contradictions → merge / kill / refine → smallest proof experiments → first product / creative thesis.
 
 No final product category is locked.
+
+
+## Research restart after native implementation (2026-10-14)
+
+18. [R6 — Award-winning Cross-Domain Re-discovery, Source Atlas Pass 04](./research/06-award-winning-cross-domain-discovery-pass-04-2026-10-14.md)
+
+**Why:** After the actual Nova → Plantupia Kotlin/Compose Android baseline exists, research deliberately restarts across winning interaction design, architecture, ecology, time, journals, situated knowledge, responsible AI and original community behavior. This is **new research**, not a claim that the original V1 roadmap is shipped or that Study 03's navigation experiment is finalized.
+
+**Next:** teardown winning screen/interaction sequences using original source and actual on-device screenshots, prototype *competing* directions (Living Atlas / Field Notes / Quiet Care), test navigation before permanent change, and feed falsifiable lessons back into the original seven meanings. User final review remains at the integrated APK; no production modification is authorized by this document.
+
